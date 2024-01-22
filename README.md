@@ -1,4 +1,7 @@
-[![MasterHead](https://j.gifs.com/KdnqJW.gif)]
+<p align="center">
+    <img width="500" src="https://j.gifs.com/KdnqJW.gif" alt="Coding">
+</p>
+
 <h1 align="center">Hi 👋, I'm Emmanuel Puyos Jr.</h1>
 <h3 align="center">A passionate frontend and backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
