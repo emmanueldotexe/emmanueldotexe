@@ -1,6 +1,7 @@
 <p align="center">
-    <img width="500" src="https://j.gifs.com/KdnqJW.gif" alt="Coding">
+    <img width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F5ZzIzczMwZWZnaThxbWcwZHEwNHMyYm11aWVwcno5eG4yaTBmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhmn2e7wjZ3nTj6sFy/giphy.gif" alt="Coding">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Emmanuel Puyos Jr.</h1>
 <h3 align="center">A passionate frontend and backend developer from Philippines</h3>
